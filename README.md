@@ -1,2 +1,2 @@
 # testowe
-Testowe repozytorium publiczne test 123 poka foke
+Testowe repozytorium publiczne test 123
